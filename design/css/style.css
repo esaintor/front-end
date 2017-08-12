@@ -1,1 +1,10 @@
 /* YOUR CUSTOM STYLES */
+
+.number-plate {
+	background: silver;
+	width: 80%;
+	height: 80px;
+	border-width: 2px;
+	border-radius: 3px;
+	border-color: black;
+}
